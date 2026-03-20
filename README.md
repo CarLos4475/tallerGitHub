@@ -12,6 +12,9 @@ struct ContentView: View{
     Text("Hola mundo")
 }
 ```
+
 | Metodo | calculo | algebra |
 | :--- | :--- | :--- |
 | hola | hola | hola |
+
+> Hola neftali
