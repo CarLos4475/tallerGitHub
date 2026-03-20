@@ -18,3 +18,7 @@ struct ContentView: View{
 | hola | hola | hola |
 
 > Hola neftali
+
+## Lista de tareas
+- [ ] Acabar el curso
+- [x] Nehi 
