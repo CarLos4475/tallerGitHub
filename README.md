@@ -4,6 +4,7 @@
 #### Detalles especificos
 
 **Hola** mundo *en cursiva*
+~~HOLA~~
 
 ```swift
 //Codigo
