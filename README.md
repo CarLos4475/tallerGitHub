@@ -22,3 +22,7 @@ struct ContentView: View{
 ## Lista de tareas
 - [ ] Acabar el curso
 - [x] Nehi 
+
+## Listas
+- Base de datos
+  - SQL
